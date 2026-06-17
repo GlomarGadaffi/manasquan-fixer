@@ -1,4 +1,6 @@
-# WireClaw – Configuration Reference
+# Configuration Reference
+
+(WireClaw is codename `manasquan-fixer` in this repository.)
 
 ---
 
