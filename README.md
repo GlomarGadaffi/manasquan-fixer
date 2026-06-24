@@ -1,4 +1,4 @@
-# manasquan-fixer
+# esp32-ai-agent
 
 ESP32 AI agent with persistent memory and offline rule engine. chat via Telegram, serial console, or NATS to configure behavior; persistent JSON state survives reboot; local rules execute without cloud roundtrips.
 

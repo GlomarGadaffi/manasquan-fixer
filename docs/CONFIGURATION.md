@@ -1,6 +1,6 @@
 # Configuration Reference
 
-(WireClaw is codename `manasquan-fixer` in this repository.)
+(WireClaw is codename `esp32-ai-agent` in this repository.)
 
 ---
 
